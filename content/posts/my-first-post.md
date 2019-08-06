@@ -7,3 +7,20 @@ draft: true
 # Hellow World!
 
 This is my <strong>FIRST</strong> **post** in Hu__GO__!
+
+``` go
+func getTrue() bool {
+    return true
+}
+```
+
+## Good
+
+### By
+
+#### Guy
+
+##### Cry
+
+###### Fly!
+
