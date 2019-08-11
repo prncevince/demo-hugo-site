@@ -2,22 +2,23 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Posts on My Demo Site</title>
-    <link>http://demo.site/posts/</link>
+    <link>/posts/</link>
     <description>Recent content in Posts on My Demo Site</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Mon, 29 Jul 2019 21:45:51 -0400</lastBuildDate>
     
-	<atom:link href="http://demo.site/posts/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="/posts/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>My First Post</title>
-      <link>http://demo.site/posts/my-first-post/</link>
+      <link>/posts/my-first-post/</link>
       <pubDate>Mon, 29 Jul 2019 21:45:51 -0400</pubDate>
       
-      <guid>http://demo.site/posts/my-first-post/</guid>
-      <description>Hellow World! This is my FIRST post in HuGO!</description>
+      <guid>/posts/my-first-post/</guid>
+      <description> Hellow World! This is my FIRST post in HuGO!
+1 2 3  func getTrue() bool { return true }   Good By Guy Cry Fly! </description>
     </item>
     
   </channel>

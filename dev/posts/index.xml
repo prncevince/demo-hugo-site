@@ -18,7 +18,7 @@
       
       <guid>/posts/my-first-post/</guid>
       <description> Hellow World! This is my FIRST post in HuGO!
-func getTrue() bool { return true } Good By Guy Cry Fly! </description>
+1 2 3  func getTrue() bool { return true }   Good By Guy Cry Fly! </description>
     </item>
     
   </channel>
