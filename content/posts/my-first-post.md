@@ -9,7 +9,7 @@ draft: true
 This is my <strong>FIRST</strong> **post** in Hu__GO__!
 
 ``` go
-func getTrue() bool {
+func getItYea() bool {
     return true
 }
 ```
