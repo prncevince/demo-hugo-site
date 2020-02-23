@@ -1,0 +1,3 @@
+May need extra build step for GitLab pages published branch to remove '/admin'.
+Can use a continuous integration service to run build script, OR push to the branch that you want manually
+(controlled in .gitlab-ci.yml file)

@@ -50,13 +50,13 @@ languageCode = "en-us"
 # Default "/public/"
 #publishDir = "/public/"
 # default false - allows using ```language ... ``` syntax instead of default ~~~ for .md files
-pygmentsCodeFences = true
+#pygmentsCodeFences = true
 # default "" - specified settings for Pygments code highlighting - e.g. with "lineos=inline" line numbers go inside the <pre> tag (instead of creating a table with line numbers and code in separate columns)
 pygmentsOptions = "linenos = ''"
 # default monokai - syntax higlighting for Pygments - see https://help.farbox.com/pygments.html
 #pygmentsStyle = "monokai"
 # default false - to use CSS classes for Pygments code highlighter's formatting (instead of colour codes inserted into HTML directly)
-#pygmentsUseClasses = false
+pygmentsUseClasses = true 
 # default false - tells hugo to render all pages with URLs relative to the websites root, doesn't apply to absolute URLs - see `baseURL`
 #relativeURLs = false
 # default 15 - sets how many items appear in the RSS file - custom RSS feed file in theme folder will ignore setting
@@ -88,3 +88,6 @@ title = "My Demo Site"
 #verboseLog = false
 #default true - when server is running with `hugo server` rebuilds site on saved changes
 #watch = true
+#
+[params]
+      custom_css = ["css/nightowl-chroma.css"]

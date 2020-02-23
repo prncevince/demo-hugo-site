@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Posts on My Demo Site</title>
@@ -17,8 +17,10 @@
       <pubDate>Mon, 29 Jul 2019 21:45:51 -0400</pubDate>
       
       <guid>/posts/my-first-post/</guid>
-      <description> Hellow World! This is my FIRST post in HuGO!
-1 2 3  func getTrue() bool { return true }   Good By Guy Cry Fly! </description>
+      <description>Hellow World! This is my FIRSTpost in HuGO!
+I mean in HuGO!!! Not Hu-GO
+1 2 3  func getItYeaModify() bool { return true }   Good How R -e &amp;quot;you&amp;quot; today?
+By Guy Cry Fly! </description>
     </item>
     
   </channel>
