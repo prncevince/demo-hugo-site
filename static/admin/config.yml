@@ -1,18 +1,19 @@
 # Working with local git repo
 # when using the default proxy server port
-local_backend: true
+# local_backend: true
 # Proxy between authenticated users & repo (saves default pushing commit to remote)
 # plan is to use this locally
 backend:
   name: gitlab
   branch: master # Branch to update (optional; defaults to master)
-  repo: owner-name/repo-name # Path to your GitLab repository
+  repo: prncevince/demo-site # Path to your GitLab repository
   auth_type: implicit # Required for implicit grant
-  app_id: your-app-id # Application ID from your GitLab settings
+  app_id: 3e0ffe6e3ab6b64b63404b3b73670ba1bf34a2dd9739b572c335255860d842f6 # Application ID from your GitLab settings
 #another option
+#With this backend, you can write and publish content normally, but any changes will disappear when you reload the page.
 #backend:
 #  name: test-repo
-
+#site_url: 127.0.0.1:1313
 # feature to draft, review, & approve posts (before push to remote - creates new branches & pull requests)
 publish_mode: editorial_workflow
 # Where media files are  stored - relative to project root

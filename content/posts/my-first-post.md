@@ -1,16 +1,16 @@
 ---
-title: "My First Post"
-date: 2019-07-29T21:45:51-04:00
-draft: true
+title: My First Post
+date: 2019-07-30T01:45:51.000Z
+thumbnail: /images/uploads/tmuxAlias.png
+rating: 3
 ---
-
 # Hellow World!
 
 This is my <strong>FIRST</strong> **post** in Hu**GO**!
 
-I mean in Hu**GO**!!! Not Hu-__GO__
+I mean in Hu**GO**!!! Not Hu-**GO**
 
-``` go
+```go
 func getItYeaModify() bool {
     return true
 }
@@ -53,7 +53,7 @@ func main() {
 
 #### Guy
 
-```js
+```javascript
 'use strict'
 class Sale {
   constructor(price) {
